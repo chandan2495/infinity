@@ -4,8 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-![](images/Photo.jpg)
+<img src="../images/Photo.jpg" width="100" height="100">
 
 **Chandan Singh**
+
 Senior Engineer II 
+
 Commvault Systems
